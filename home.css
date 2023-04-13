@@ -20,8 +20,8 @@ header {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     /* margin-top: 170px; */
-    font-size: 89px;
-    color: #1D1640;
+    font-size: 70px;
+    color: #e0e4ef;
     font-weight: 800;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 3);
 }
@@ -35,7 +35,7 @@ header {
     font-weight: 390;
     text-align: center;
     font-size: 20px;
-    color: white;
+    color: #e0e4ef;
 }
 
 .img {
